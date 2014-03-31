@@ -1,0 +1,1 @@
+/Users/KAPPA/Dropbox/lib/dot.vimrc
